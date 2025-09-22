@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+</head>
+<body>
+  This is my webpage
+  <h1>My favorite hobby is: Listening to Music</h1>
+  <h2> Why I enjoy listening to music</h2>
+  <h3> It helps me relax and keeps me peaceful</h3>
+
+<p>
+  Listening to music is one of my favorite hobbies since I can transition through a bunch of feelings and or moods.
+  If I am sad, I can play something to make me happy, or if I want to get hyped up, I can play a song that would match my mindset. 
+  I listen to all kinds of genres but I really enjoy hyperpop or rap songs. Party music, as well, is one of my favorite genres. 
+  My favorite artist to listen to as of now is Ken Carson I think his music is very niche, and I like his flow. 
+</p>
+
+<p>
+  This is my favorite platform to listen to music to. 
+  <a href="https://open.spotify.com/" 
+
+<p>
+  This is a picture of my favorite artist
+  <img src= https://i.scdn.co/image/ab67616d00001e023b494c1b464d41ef641de442"
+</p>
+</body>
+</html>
+
