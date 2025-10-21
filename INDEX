@@ -19,7 +19,6 @@
   <main>
     <section id="about">
       <h2>About This Page</h2>
-      <p>This section explains the purpose of the site and introduces advanced HTML structure.</p>
     </section>
 
     <figure>
@@ -29,7 +28,6 @@
 
     <section id="gallery">
       <h2>Image Gallery</h2>
-      <p>Preview of design samples will go here later.</p>
     </section>
 
     <section id="contact">
